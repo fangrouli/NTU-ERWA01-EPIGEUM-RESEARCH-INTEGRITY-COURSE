@@ -1,0 +1,84 @@
+Q1. 
+Why must researchers engage responsibly with the public?
+A1.
+researchers mostly receive funding from public sources.
+
+Q2.
+Publishing multiple papers based on the same project could lead to accusations of deliberately exaggerating the significance of your research.
+A2.
+True
+
+Q3.
+Which of the following should be included in the research record? (Select all that apply.)
+Thoughts, Confidential Info, Meeting notes, References
+A3.
+exclude confidential information, select all others.
+
+Q4.
+A publication's author list should be decided when:
+A4.
+First time considering publishing.
+
+Q5.
+Which of the following is NOT a reliable source of guidance for the responsible conduct of research/good research practice?
+A5.
+Commonly accepted practices.
+
+Q6.
+Which of the following would an institution do when responding to an allegation of research misconduct? (Select all that apply.)
+A6.
+exclude "report to funding source before doing anything", select all others.
+
+Q7.
+Which of the following statements is true? (Select all that apply.)
+(some options related to the conflict of self interests and research interests)
+A7.
+exclude the term with "always" in it, select all other options.
+
+Q8.
+If you suspect a colleague of research misconduct, who at NTU should you report your suspicions to?
+A8.
+Research integrity officer.
+
+Q9.
+Which of these approaches are NOT practical ways of preventing your research being used by others in ways that you didn't anticipate? (Select all that apply.)
+Always work with supervisor responsible for you, take precautions before research starts, cautious when disemminating your work, dont publish, change research topic.
+A9.
+exclude "take precautions before research starts", select all others.
+
+Q10.
+Which of these situations would be a form of advocacy?
+A10.
+Use your research impact to push for changing a policy.
+
+Q11.
+This course discusses the rightness and wrongness of certain types of research.
+A11.
+False.
+
+Q12.
+What is considered serious misconduct in research?
+A12.
+Anything that severely diminish the accuracy of your research and integrity of the research.
+
+Q13.
+Which of the following is NOT one of the four principles for responsible conduct outlined in the Singapore Statement on Research Integrity?
+A13.
+Integrity.
+
+Q14.
+Once you have reviewed a manuscript, which of the following may you do?
+use the idea in your own work, contact the authors, discuss the paper with others, none of the above.
+A14.
+none of the given options.
+
+Q15.
+Select all valid reasons to NOT share your data:
+export control law, protect privacy of human participants, confidential info, IP of other parties.
+A15.
+Select all options.
+
+Q16.
+While performing a literature review, you find a new publication that contradicts your research hypothesis. What should you do?
+A16.
+Read the paper in detail and figure out why and use it in your own paper.
